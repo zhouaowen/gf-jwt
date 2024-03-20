@@ -1,6 +1,6 @@
 module github.com/zhouaowen/gf-jwt/v2
 
-go 1.15
+go 1.16
 
 require (
 	github.com/gogf/gf/v2 v2.0.0-rc3
